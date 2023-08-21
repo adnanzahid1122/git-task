@@ -1,0 +1,18 @@
+Steps for the given Git task
+
+Assignment: DevOps Git Workflow with Hooks and Webhooks
+
+⦁	login to your GitHub account.
+⦁	Create a new repository and copy the http link
+
+Now, For the pre and post requests 
+⦁	Create a  directory on your local system
+⦁	git clone, git config, add, commit and push
+⦁	Create pre and post-files in the hooks and change the type to the executable.
+⦁	Changes to the file and push it again.
+⦁	A message will be sent to the group
+
+For the pull request:
+⦁	As we have not installed fork anyone so we will use the push instead.
+⦁	go to the settings change the type and constrains, change the type of the file and save it.
+⦁	now verify it by a push request 
